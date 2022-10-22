@@ -1,5 +1,5 @@
-body{
+div{
     border: 2px solid cyan;
     padding: 20px;
-    margin: 20px;
+    /* margin: 20px; */
 }
