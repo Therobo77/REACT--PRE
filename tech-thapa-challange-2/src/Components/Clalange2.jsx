@@ -9,6 +9,7 @@ const Clalange2 = () => {
         <h1>Hey My Name is {Name}</h1>
         <p>Current Date {CrDate}</p>
         <p>Current Time {CrTime}</p>
+        
     </div>
   )
 }
