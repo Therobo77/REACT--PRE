@@ -1,5 +1,10 @@
+*{
+  /* background-color: aquamarine; */
+  margin: 1px;
+}
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -48,8 +53,9 @@ div{
   background-color: palevioletred;
 }
 .mains{
-  background: gainsboro;
+  /* background: gainsboro; */
   margin: 3px;
   padding: 3px;
   border-radius: 9px;
+  color: red;
 }

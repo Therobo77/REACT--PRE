@@ -5,7 +5,7 @@ const Challange3 = () => {
 
     const curDate = new Date().getHours()
     let curStr = "";
-    
+    // const cssColor={}
 
     // Basic CONDITIONAL OPERATION
     // if(curDate<1 && curDate>=12){
@@ -19,7 +19,7 @@ const Challange3 = () => {
     // }
 
     // TERNARY OPERATION
-    (curDate<1 && curDate>=12 ? curStr = "Good Morning" :curDate<=20?curStr = " Good After-noon " :curStr = "Good Night" )
+    (curDate<1 && curDate>=12 ? curStr = "Good Morning":curDate<=20?curStr = " Good After-noon " :curStr = "Good Night" )
     
   return (
     <div className='main2'>
