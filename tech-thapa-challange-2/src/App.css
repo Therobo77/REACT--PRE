@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+div{
+  /* border:1px solid gainsboro; */
+  margin: 3px;
+  padding: 3px;
+  border-radius: 8px;
+}
+.main2{
+  width: 30%;
+  margin: auto;
+  background-color: palevioletred;
+}
+.mains{
+  background: gainsboro;
+  margin: 3px;
+  padding: 3px;
+  border-radius: 9px;
+}
