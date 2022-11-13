@@ -18,4 +18,4 @@ const ContentEditable = () => {
   )
 }
 
-export default ContentEditable
+export default ContentEditable;
